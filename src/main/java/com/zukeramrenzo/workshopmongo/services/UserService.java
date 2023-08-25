@@ -1,8 +1,8 @@
 package com.zukeramrenzo.workshopmongo.services;
 
-import com.zukeramrenzo.workshopmongo.domain.User;
+import com.zukeramrenzo.workshopmongo.domains.User;
 import com.zukeramrenzo.workshopmongo.dto.UserDTO;
-import com.zukeramrenzo.workshopmongo.repository.UserRepository;
+import com.zukeramrenzo.workshopmongo.repositories.UserRepository;
 import com.zukeramrenzo.workshopmongo.services.exceptions.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

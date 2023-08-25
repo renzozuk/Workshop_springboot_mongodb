@@ -1,6 +1,6 @@
-package com.zukeramrenzo.workshopmongo.repository;
+package com.zukeramrenzo.workshopmongo.repositories;
 
-import com.zukeramrenzo.workshopmongo.domain.User;
+import com.zukeramrenzo.workshopmongo.domains.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
